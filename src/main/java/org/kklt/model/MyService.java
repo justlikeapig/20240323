@@ -8,7 +8,7 @@ public class MyService {
     }
 
     protected String sayHello(String param) {
-
+        String a = "1";
         return "hello" + param;
     }
 }
